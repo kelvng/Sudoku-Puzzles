@@ -236,8 +236,8 @@ if __name__ == "__main__":
 
         print('Selection of Latin Square:')
         printBoard(bo)
-    #Biến đổi cấu trúc hàng và cột để tạo ra bản laTin Square 9x9:
-    #S là biến tạm s khi thực thi xong có thể đặt tên biến khác
+        #Biến đổi cấu trúc hàng và cột để tạo ra bản laTin Square 9x9:
+        #S là biến tạm s khi thực thi xong có thể đặt tên biến khác
         #Tiến hành phân chia kẻ ô cho dễ kiểm tra
         
         base=random.choice(grid)
